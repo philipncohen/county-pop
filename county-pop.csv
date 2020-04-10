@@ -56,7 +56,7 @@ cystf,pop
 "Pike, Alabama",33114
 "Randolph, Alabama",22722
 "Russell, Alabama",57961
-"St Clair, Alabama",89512
+"St. Clair, Alabama",89512
 "Shelby, Alabama",217702
 "Sumter, Alabama",12427
 "Talladega, Alabama",79978
@@ -68,7 +68,7 @@ cystf,pop
 "Winston, Alabama",23629
 "Aleutians East Borough, Alaska",3337
 "Aleutians West Census Area, Alaska",5634
-"Anchorage Municipality, Alaska",288000
+"Anchorage, Alaska",288000
 "Bethel Census Area, Alaska",18386
 "Bristol Bay Borough, Alaska",836
 "Denali Borough, Alaska",2097
@@ -89,7 +89,7 @@ cystf,pop
 "Petersburg Borough, Alaska",3266
 "Prince of Wales-Hyder Census Area, Alaska",6203
 "Sitka City and Borough, Alaska",8493
-"Skagway Municipality, Alaska",1183
+"Skagway, Alaska",1183
 "Southeast Fairbanks Census Area, Alaska",6893
 "Valdez-Cordova Census Area, Alaska",9202
 "Wrangell City and Borough, Alaska",2502
@@ -171,7 +171,7 @@ cystf,pop
 "Prairie, Arkansas",8062
 "Pulaski, Arkansas",391911
 "Randolph, Arkansas",17958
-"St Francis, Arkansas",24994
+"St. Francis, Arkansas",24994
 "Saline, Arkansas",122437
 "Scott, Arkansas",10281
 "Searcy, Arkansas",7881
@@ -373,8 +373,8 @@ cystf,pop
 "Pinellas, Florida",974996
 "Polk, Florida",724777
 "Putnam, Florida",74521
-"St Johns, Florida",264672
-"St Lucie, Florida",328297
+"St. Johns, Florida",264672
+"St. Lucie, Florida",328297
 "Santa Rosa, Florida",184313
 "Sarasota, Florida",433742
 "Seminole, Florida",471826
@@ -675,7 +675,7 @@ cystf,pop
 "Randolph, Illinois",31782
 "Richland, Illinois",15513
 "Rock Island, Illinois",141879
-"St Clair, Illinois",259686
+"St. Clair, Illinois",259686
 "Saline, Illinois",23491
 "Sangamon, Illinois",194672
 "Schuyler, Illinois",6768
@@ -766,7 +766,7 @@ cystf,pop
 "Randolph, Indiana",24665
 "Ripley, Indiana",28324
 "Rush, Indiana",16581
-"St Joseph, Indiana",271826
+"St. Joseph, Indiana",271826
 "Scott, Indiana",23873
 "Shelby, Indiana",44729
 "Spencer, Indiana",20277
@@ -1155,15 +1155,15 @@ cystf,pop
 "Red River, Louisiana",8442
 "Richland, Louisiana",20122
 "Sabine, Louisiana",23884
-"St Bernard, Louisiana",47244
-"St Charles, Louisiana",53100
-"St Helena, Louisiana",10132
-"St James, Louisiana",21096
-"St John the Baptist, Louisiana",42837
-"St Landry, Louisiana",82124
-"St Martin, Louisiana",53431
-"St Mary, Louisiana",49348
-"St Tammany, Louisiana",260419
+"St. Bernard, Louisiana",47244
+"St. Charles, Louisiana",53100
+"St. Helena, Louisiana",10132
+"St. James, Louisiana",21096
+"St. John the Baptist, Louisiana",42837
+"St. Landry, Louisiana",82124
+"St. Martin, Louisiana",53431
+"St. Mary, Louisiana",49348
+"St. Tammany, Louisiana",260419
 "Tangipahoa, Louisiana",134758
 "Tensas, Louisiana",4334
 "Terrebonne, Louisiana",110461
@@ -1209,7 +1209,7 @@ cystf,pop
 "Montgomery, Maryland",1050688
 "Prince George's, Maryland",909327
 "Queen Anne's, Maryland",50381
-"St Mary's, Maryland",113510
+"St. Mary's, Maryland",113510
 "Somerset, Maryland",25616
 "Talbot, Maryland",37181
 "Washington, Maryland",151049
@@ -1303,8 +1303,8 @@ cystf,pop
 "Presque Isle, Michigan",12592
 "Roscommon, Michigan",24019
 "Saginaw, Michigan",190539
-"St Clair, Michigan",159128
-"St Joseph, Michigan",60964
+"St. Clair, Michigan",159128
+"St. Joseph, Michigan",60964
 "Sanilac, Michigan",41170
 "Schoolcraft, Michigan",8094
 "Shiawassee, Michigan",68122
@@ -1381,7 +1381,7 @@ cystf,pop
 "Rice, Minnesota",66972
 "Rock, Minnesota",9315
 "Roseau, Minnesota",15165
-"St Louis, Minnesota",199070
+"St. Louis, Minnesota",199070
 "Scott, Minnesota",149013
 "Sherburne, Minnesota",97238
 "Sibley, Minnesota",14865
@@ -1533,6 +1533,7 @@ cystf,pop
 "Jasper, Missouri",121328
 "Jefferson, Missouri",225081
 "Johnson, Missouri",54062
+"Kansas City, Missouri",491918
 "Knox, Missouri",3959
 "Laclede, Missouri",35723
 "Lafayette, Missouri",32708
@@ -1573,11 +1574,11 @@ cystf,pop
 "Ray, Missouri",23018
 "Reynolds, Missouri",6270
 "Ripley, Missouri",13288
-"St Charles, Missouri",402022
-"St Clair, Missouri",9397
-"Ste Genevieve, Missouri",17894
-"St Francois, Missouri",67215
-"St Louis, Missouri",994205
+"St. Charles, Missouri",402022
+"St. Clair, Missouri",9397
+"Ste. Genevieve, Missouri",17894
+"St. Francois, Missouri",67215
+"St. Louis, Missouri",994205
 "Saline, Missouri",22761
 "Schuyler, Missouri",4660
 "Scotland, Missouri",4902
@@ -1596,7 +1597,7 @@ cystf,pop
 "Webster, Missouri",39592
 "Worth, Missouri",2013
 "Wright, Missouri",18289
-"St Louis city, Missouri",300576
+"St. Louis city, Missouri",300576
 "Beaverhead, Montana",9453
 "Big Horn, Montana",13319
 "Blaine, Montana",6681
@@ -1801,7 +1802,7 @@ cystf,pop
 "Colfax, New Mexico",11941
 "Curry, New Mexico",48954
 "De Baca, New Mexico",1748
-"Doña Ana, New Mexico",218195
+"Dona Ana, New Mexico",218195
 "Eddy, New Mexico",58460
 "Grant, New Mexico",26998
 "Guadalupe, New Mexico",4300
@@ -1867,7 +1868,7 @@ cystf,pop
 "Putnam, New York",98320
 "Rensselaer, New York",158714
 "Rockland, New York",325789
-"St Lawrence, New York",107740
+"St. Lawrence, New York",107740
 "Saratoga, New York",229863
 "Schenectady, New York",155299
 "Schoharie, New York",30999
@@ -3097,7 +3098,7 @@ cystf,pop
 "Richland, Wisconsin",17252
 "Rock, Wisconsin",163354
 "Rusk, Wisconsin",14178
-"St Croix, Wisconsin",90687
+"St. Croix, Wisconsin",90687
 "Sauk, Wisconsin",64442
 "Sawyer, Wisconsin",16558
 "Shawano, Wisconsin",40899
